@@ -1,10 +1,12 @@
 # SI-grupa-laboratoryjna-nr-7
-#Nazwa:
+
+# Nazwa:
 wypełnienie basenu mlekiem
-#Grupa:
-*Łukasz Ćwiek
-*Andrzej Kulik
-*Sebastian Kryszczuk
+
+# Grupa:
+* Łukasz Ćwiek
+* Andrzej Kulik
+* Sebastian Kryszczuk
 
 losowa ilość x pojemność x cena
 
