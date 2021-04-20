@@ -15,6 +15,8 @@ Python
 ### Koncept:
 #### - Dane zapisywane w JSON-ie
 #### - Losowe przypisywanie wartości na start
+#### - Basen Ogrodowy na Stelażu INTEX 549cm x 274cm x 132cm (26356) 6w1 z pompą piaskową - 17200 litrow 
+
 Losowanie formatu [pojemnik][smak][zwierze][procent][pochodzenie][jakość] według różnych wariantów:
 | Nazwa         |                     Warianty                                  |
 | ------------- | ------------------------------------------------------------- |
