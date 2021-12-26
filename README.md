@@ -2,9 +2,9 @@
 ### Nazwa:
 wypełnienie basenu mlekiem
 ### Grupa:
- * Łukasz Ćwiek, 
- * Andrzej Kulik, 
- * Sebastian Kryszczuk
+ * https://github.com/lukc2
+ * https://github.com/ZehirAhsen 
+ * https://github.com/elo240
 ### Język:
 Python
 
